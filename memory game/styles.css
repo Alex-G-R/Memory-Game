@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(143, 255, 180);
+    font-family: Arial;
+}
+h1{
+    margin-left: 50px
+}
+img {
+    height: 180px;
+    width: 180px;
+}
+.container {
+    display: flex;
+}
+.box {
+    background-color: blue;
+    height: 180px;
+    width: 180px;
+    margin: 20px;
+    border: 6px darkblue solid;
+    font-size: 10em;
+}
+.photo{
+    display: none;
+}
+.stats{
+    margin-left: 60px;
+}
